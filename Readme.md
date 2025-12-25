@@ -1,5 +1,5 @@
-📚 CoursePedia — A Full-Stack LMS Platform
-CoursePedia is a comprehensive, role-based Learning Management System (LMS) built as a full-stack learning project. It empowers instructors to create and manage courses, while enabling students to browse, enroll, and track their learning progress.
+📚 CourseShala — A Full-Stack LMS Platform
+CourseShala is a comprehensive, role-based Learning Management System (LMS) built as a full-stack learning project. It empowers instructors to create and manage courses, while enabling students to browse, enroll, and track their learning progress.
 
 This project serves as a practical, end-to-end exploration of how modern, real-world full-stack applications are structured and built.
 
